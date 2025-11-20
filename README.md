@@ -38,7 +38,7 @@
 ---
 
 ## 🧩 Projects
-- [📅 **Medical Appointment System**](https://github.com/italobotelho/casa-de-maria-tcc) 🛠**IN MAINTAINING**⚠ — A web platform developed as my technical high school thesis, focused on medical appointment scheduling.  
+- [📅 **Medical Appointment System**](https://github.com/italobotelho/casa-de-maria-tcc) — A web platform developed as my technical high school thesis, focused on medical appointment scheduling.  
 - [📊 **Data Analysis with Python**](https://github.com/italobotelho/imrs_educacao_2020) — Exploratory analysis and data visualization using `pandas` and `matplotlib`.  
 
 ---
