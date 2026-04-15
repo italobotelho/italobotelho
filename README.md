@@ -129,7 +129,7 @@ Passionate about solving complex problems, from low-level logic in **C** to crea
       <img src="https://skillicons.dev/icons?i=github&theme=light" width="60" height="60" alt="GitHub" />
       <br><strong>GitHub</strong>
     </td>
-    <td align="center" width="85" colspan="2">
+    <td align="center" width="85">
       <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="60" height="60" alt="Power BI" />
       <br><strong>Power BI</strong>
     </td>
@@ -177,9 +177,9 @@ Passionate about solving complex problems, from low-level logic in **C** to crea
 
 <br/>
 
-<div align="center">
+<!-- <div align="center">
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/CERTIFICATIONS-VIEW%20ALL-6A66D9?style=for-the-badge&logo=googledrive&logoColor=white" alt="View All Certifications" /></a>
-</div>
+</div> -->
 
 <br/>
 
