@@ -33,7 +33,7 @@ Passionate about solving complex problems, from low-level logic in **C** to crea
 </td>
 <td width="45%" valign="top" align="center">
 
-<img width="250" height="250" style="border-radius: 50%; object-fit: cover;" alt="Ítalo Botelho" src="https://github.com/italobotelho.png" />
+<img width="320" height="320" style="border-radius: 50%; object-fit: cover;" alt="Ítalo Botelho" src="https://github.com/user-attachments/assets/4f03fa36-cba8-4bde-a58b-acfb4324ef72" />
 
 <p>
   <a href="https://linkedin.com/in/italobotelho"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
