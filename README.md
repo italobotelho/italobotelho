@@ -69,7 +69,7 @@ Passionate about solving complex problems, from low-level logic in **C** to crea
 - [**Predictive Dashboard: Basic Food Basket**](https://github.com/italobotelho/cesta_basica) — Strategic intelligence and price forecasting using **Power BI and DAX**.
 
 ### 🌐 Web Development (Fullstack)
-- [**Casa de Maria System (Capstone Project)**](https://github.com/italobotelho/casa-de-maria-tcc) — Complete medical scheduling platform built with **Laravel, Node.js, and FullCalendar**.
+- [**Casa de Maria System**](https://github.com/italobotelho/casa-de-maria-v2) — Complete medical scheduling platform built with **Laravel, Node.js, and FullCalendar**.
 
 ---
 
