@@ -137,7 +137,7 @@ Passionate about solving complex problems, from low-level logic in **C** to crea
 </table>
 
 <br/>
-
+<!--
 ---
 
 ## 📜 Certifications
@@ -177,10 +177,8 @@ Passionate about solving complex problems, from low-level logic in **C** to crea
 
 <br/>
 
-<!-- <div align="center">
+<div align="center">
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/CERTIFICATIONS-VIEW%20ALL-6A66D9?style=for-the-badge&logo=googledrive&logoColor=white" alt="View All Certifications" /></a>
 </div> -->
-
-<br/>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:1D64F2,100:6A66D9&reversal=true&textBg=false&section=footer"/>
