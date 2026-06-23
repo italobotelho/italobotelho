@@ -64,35 +64,38 @@ Passionate about solving complex problems, from low-level logic in **C** to crea
 
 ---
 
+<table>
+<tr>
+<td width="55%" valign="top" align="center">
+
 ## 🧩 Featured Projects
 
-<p align="center">
-  <a href="https://github.com/italobotelho/casa-de-maria-v2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=italobotelho&repo=casa-de-maria-v2&theme=dark&bg_color=0d1117&border_color=6A66D9&title_color=6A66D9&icon_color=6A66D9" alt="Casa de Maria" />
-  </a>
-  <a href="https://github.com/italobotelho/cesta_basica">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=italobotelho&repo=cesta_basica&theme=dark&bg_color=0d1117&border_color=6A66D9&title_color=6A66D9&icon_color=6A66D9" alt="Cesta Básica" />
-  </a>
-</p>
+<br/>
+<a href="https://github.com/italobotelho/my-portfolio">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=italobotelho&repo=my-portfolio&theme=dark&bg_color=0d1117&border_color=6A66D9&title_color=6A66D9&icon_color=6A66D9" alt="My Portfolio" />
+</a>
+<br/><br/>
+<a href="https://github.com/italobotelho/cesta_basica">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=italobotelho&repo=cesta_basica&theme=dark&bg_color=0d1117&border_color=6A66D9&title_color=6A66D9&icon_color=6A66D9" alt="Cesta Básica" />
+</a>
+<br/><br/>
+<a href="https://github.com/italobotelho/frh-contabilidade">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=italobotelho&repo=frh-contabilidade&theme=dark&bg_color=0d1117&border_color=6A66D9&title_color=6A66D9&icon_color=6A66D9" alt="FRH Contabilidade" />
+</a>
 
-<p align="center">
-  <a href="https://github.com/italobotelho/siest">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=italobotelho&repo=siest&theme=dark&bg_color=0d1117&border_color=6A66D9&title_color=6A66D9&icon_color=6A66D9" alt="SIEST" />
-  </a>
-</p>
-
----
+</td>
+<td width="45%" valign="top" align="center">
 
 ## 🛠️ My Tools and Technologies
 
 <br/>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=py,c,aws,mysql,postgres,js,php,laravel,git,github,html,css,ts,nodejs,mongodb&perline=4" />
+</a>
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,c,aws,mysql,postgres,js,php,laravel,git,github,html,css,ts,nodejs,mongodb" />
-  </a>
-</p>
-
+</td>
+</tr>
+</table>
 
 <!--
 ---
