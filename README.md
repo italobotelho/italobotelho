@@ -47,9 +47,6 @@ Passionate about solving complex problems, from low-level logic in **C** to crea
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=italobotelho&show_icons=true&count_private=true&rank_icon=github&hide=prs&hide_border=true&title_color=6A66D9&icon_color=6A66D9&text_color=c9d1d9&bg_color=0d1117" alt="Ítalo Botelho GitHub Stats" width="100%" /> 
-<br/>
-
 </td>
 </tr>
 </table>
@@ -60,6 +57,7 @@ Passionate about solving complex problems, from low-level logic in **C** to crea
   <a href="https://discord.com/users/546309961018507275">
     <img src="https://lanyard.cnrad.dev/api/546309961018507275?bg=00000000&hideDiscrim=true&idleMessage=Probably%20doing%20something%20else..." alt="Discord Presence" />
   </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=italobotelho&show_icons=true&count_private=true&rank_icon=github&hide=prs&hide_border=true&title_color=6A66D9&icon_color=6A66D9&text_color=c9d1d9&bg_color=0d1117&include_all_commits=true" alt="Ítalo Botelho GitHub Stats" />
 </p>
 
 ---
