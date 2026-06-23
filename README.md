@@ -70,7 +70,7 @@ Passionate about solving complex problems, from low-level logic in **C** to crea
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,c,aws,mysql,postgres,js,php,laravel,git,github,html,css,ts,nodejs,mongodb" />
+    <img src="https://skillicons.dev/icons?i=py,c,aws,mysql,postgres,js,php,laravel,git,github,html,css,ts,nodejs,mongodb&perline=8" />
   </a>
 </p>
 
@@ -92,6 +92,9 @@ Passionate about solving complex problems, from low-level logic in **C** to crea
 <p align="center">
   <a href="https://github.com/italobotelho/cesta_basica">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=italobotelho&repo=cesta_basica&theme=dark&bg_color=0d1117&border_color=6A66D9&title_color=6A66D9&icon_color=6A66D9" alt="Cesta Básica" />
+  </a>
+  <a href="https://github.com/italobotelho/PI2026.1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=italobotelho&repo=PI2026.1&theme=dark&bg_color=0d1117&border_color=6A66D9&title_color=6A66D9&icon_color=6A66D9" alt="PI 2026.1 (SIEST)" />
   </a>
 </p>
 
