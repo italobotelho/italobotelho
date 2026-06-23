@@ -8,50 +8,59 @@
 
 <br/>
 
-<div align="center">
-  <img width="250" height="250" style="border-radius: 50%; object-fit: cover;" alt="Ítalo Botelho" src="https://github.com/user-attachments/assets/4f03fa36-cba8-4bde-a58b-acfb4324ef72" />
+<table>
+<tr>
+<td width="55%" valign="top">
 
-  ### Ítalo Botelho
-  
-  **Data Science and Artificial Intelligence** student at PUC Campinas. <br/> 
-  Passionate about solving complex problems, from low-level logic in **C** to creating strategic data narratives in **Python**.
-  
-  <p>
-    <a href="https://linkedin.com/in/italobotelho"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
-    <a href="mailto:fragabotelhoitalo@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
-  </p>
+### Ítalo Botelho
 
-  <img src="https://komarev.com/ghpvc/?username=italobotelho&style=flat-square&color=6A66D9&label=VIEWS" alt="Profile views count" />
-</div>
+**Data Science and Artificial Intelligence** student at PUC Campinas.  
+Passionate about solving complex problems, from low-level logic in **C** to creating strategic data narratives in **Python**.
 
-<br/>
+**Experience**
 
-### 💼 Experience
+**Statistics and Inference Teaching Assistant @ PUC Campinas** *(2026 - Present)* Supporting first-semester students in understanding statistical concepts and mathematical calculations.
 
-- **Statistics and Inference Teaching Assistant @ PUC Campinas** *(2026 - Present)*: Supporting first-semester students in understanding statistical concepts and mathematical calculations.
-- **Technical Assistant @ Accounting Firm** *(2025 - Present)*: Automating technical routines, document management, and optimizing office workflows.
-- **Former IT Intern @ UniFAJ** *(Until Nov 2025)*: Hands-on experience with technical support and IT Service Management (ITSM).
+**Technical Assistant @ Accounting Firm** *(2025 - Present)* Automating technical routines, document management, and optimizing office workflows.
 
-### 🎯 Current Projects & Goals
+**Former IT Intern @ UniFAJ** *(Until Nov 2025)* Hands-on experience with technical support and IT Service Management (ITSM).
 
+**Current Projects & Goals**
 - Developing **SIEST**, utilizing graph theory for public health data analysis.
 - Technical English C1 Level.
 
+</td>
+<td width="45%" valign="top" align="center">
+
+<img width="320" height="320" style="border-radius: 50%; object-fit: cover;" alt="Ítalo Botelho" src="https://github.com/user-attachments/assets/4f03fa36-cba8-4bde-a58b-acfb4324ef72" />
+
+<p>
+  <a href="https://linkedin.com/in/italobotelho"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:fragabotelhoitalo@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+</p>
+
+<img src="https://komarev.com/ghpvc/?username=italobotelho&style=flat-square&color=6A66D9&label=VIEWS" alt="Profile views count" />
+
 <br/>
 
-<div align="center">
-  🎸 Outside of tech, I study **Philosophy**, practice **running**, and enjoy playing the **acoustic guitar**.
+🎸 Outside of tech, I study **Philosophy**, practice **running**, and enjoy playing the **acoustic guitar**.
 
-  <br/><br/>
+<br/>
 
+<img src="https://github-readme-stats.vercel.app/api?username=italobotelho&show_icons=true&count_private=true&rank_icon=github&hide=prs&hide_border=true&title_color=6A66D9&icon_color=6A66D9&text_color=c9d1d9&bg_color=0d1117" alt="Ítalo Botelho GitHub Stats" width="100%" /> 
+<br/>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<p align="center">
   <a href="https://discord.com/users/546309961018507275">
     <img src="https://lanyard.cnrad.dev/api/546309961018507275?bg=00000000&hideDiscrim=true&idleMessage=Probably%20doing%20something%20else..." alt="Discord Presence" />
   </a>
-  
-  <br/><br/>
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=italobotelho&show_icons=true&count_private=true&rank_icon=github&hide=prs&hide_border=true&title_color=6A66D9&icon_color=6A66D9&text_color=c9d1d9&bg_color=0d1117" alt="Ítalo Botelho GitHub Stats" width="80%" />
-</div>
+</p>
 
 ---
 
