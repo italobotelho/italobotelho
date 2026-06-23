@@ -25,10 +25,6 @@ Passionate about solving complex problems, from low-level logic in **C** to crea
 
 **Former IT Intern @ UniFAJ** *(Until Nov 2025)* Hands-on experience with technical support and IT Service Management (ITSM).
 
-**Current Projects & Goals**
-- Developing **SIEST**, utilizing graph theory for public health data analysis.
-- Technical English C1 Level.
-
 </td>
 <td width="45%" valign="top" align="center">
 
@@ -53,12 +49,20 @@ Passionate about solving complex problems, from low-level logic in **C** to crea
 
 <br/>
 
-<p align="center">
-  <a href="https://discord.com/users/546309961018507275">
-    <img src="https://lanyard.cnrad.dev/api/546309961018507275?bg=00000000&hideDiscrim=true&idleMessage=Probably%20doing%20something%20else..." alt="Discord Presence" />
-  </a>
-  <img src="https://github-readme-stats.vercel.app/api?username=italobotelho&show_icons=true&count_private=true&rank_icon=github&hide=prs&hide_border=true&title_color=6A66D9&icon_color=6A66D9&text_color=c9d1d9&bg_color=0d1117&include_all_commits=true" alt="Ítalo Botelho GitHub Stats" />
-</p>
+<div align="center">
+<table>
+  <tr>
+    <td align="center" style="border:none;">
+      <a href="https://discord.com/users/546309961018507275">
+        <img src="https://lanyard.cnrad.dev/api/546309961018507275?bg=00000000&hideDiscrim=true&idleMessage=Probably%20doing%20something%20else..." alt="Discord Presence" />
+      </a>
+    </td>
+    <td align="center" style="border:none;">
+      <img src="https://github-readme-stats.vercel.app/api?username=italobotelho&show_icons=true&count_private=true&rank_icon=github&hide=prs&hide_border=true&title_color=6A66D9&icon_color=6A66D9&text_color=c9d1d9&bg_color=0d1117&include_all_commits=true" alt="Ítalo Botelho GitHub Stats" />
+    </td>
+  </tr>
+</table>
+</div>
 
 ---
 
