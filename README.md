@@ -80,19 +80,19 @@ Passionate about solving complex problems, from low-level logic in **C** to crea
 
 <p align="center">
   <a href="https://github.com/italobotelho/8-puzzle-solver-ai">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=italobotelho&repo=8-puzzle-solver-ai&theme=dark&bg_color=0d1117&border_color=6A66D9&title_color=6A66D9&icon_color=6A66D9" alt="8-Puzzle Solver AI" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=italobotelho&repo=8-puzzle-solver-ai&theme=dark&bg_color=0d1117&border_color=6A66D9&title_color=6A66D9&icon_color=6A66D9&description_lines_count=2" alt="8-Puzzle Solver AI" />
   </a>
   <a href="https://github.com/italobotelho/casa-de-maria-v2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=italobotelho&repo=casa-de-maria-v2&theme=dark&bg_color=0d1117&border_color=6A66D9&title_color=6A66D9&icon_color=6A66D9" alt="Casa de Maria" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=italobotelho&repo=casa-de-maria-v2&theme=dark&bg_color=0d1117&border_color=6A66D9&title_color=6A66D9&icon_color=6A66D9&description_lines_count=2" alt="Casa de Maria" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/italobotelho/cesta_basica">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=italobotelho&repo=cesta_basica&theme=dark&bg_color=0d1117&border_color=6A66D9&title_color=6A66D9&icon_color=6A66D9" alt="Cesta Básica" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=italobotelho&repo=cesta_basica&theme=dark&bg_color=0d1117&border_color=6A66D9&title_color=6A66D9&icon_color=6A66D9&description_lines_count=2" alt="Cesta Básica" />
   </a>
   <a href="https://github.com/italobotelho/PI2026.1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=italobotelho&repo=PI2026.1&theme=dark&bg_color=0d1117&border_color=6A66D9&title_color=6A66D9&icon_color=6A66D9" alt="PI 2026.1 (SIEST)" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=italobotelho&repo=PI2026.1&theme=dark&bg_color=0d1117&border_color=6A66D9&title_color=6A66D9&icon_color=6A66D9&description_lines_count=2" alt="PI 2026.1 (SIEST)" />
   </a>
 </p>
 
