@@ -27,8 +27,6 @@ Passionate about solving complex problems, from low-level logic in **C** to crea
 
 **Current Projects & Goals**
 - Developing **SIEST**, utilizing graph theory for public health data analysis.
-- Participating in the Innovation and Data Training Track (Aiot Lab).
-- Consolidating my academic and technical foundation for a future career as a researcher/scientist in Big Tech.
 - Technical English C1 Level.
 
 </td>
