@@ -68,7 +68,7 @@ Passionate about solving complex problems, from low-level logic in **C** to crea
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,c,aws,mysql,postgres,js,php,laravel,git,github,html,css,ts,nodejs,mongodb&perline=8" />
+    <img src="https://skillicons.dev/icons?i=c,py,postgres,mysql,php,github,aws,laravel,git,html,js,nodejs,mongodb,css,ts&perline=8" />
   </a>
 </p>
 
