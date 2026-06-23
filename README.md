@@ -58,7 +58,7 @@ Passionate about solving complex problems, from low-level logic in **C** to crea
       </a>
     </td>
     <td align="center" style="border:none;">
-      <img src="https://github-readme-stats.vercel.app/api?username=italobotelho&show_icons=true&count_private=true&rank_icon=github&hide=prs&hide_border=true&title_color=6A66D9&icon_color=6A66D9&text_color=c9d1d9&bg_color=0d1117&include_all_commits=true" alt="Ítalo Botelho GitHub Stats" />
+      <img src="https://streak-stats.demolab.com/?user=italobotelho&hide_border=true&background=0d1117&ring=6A66D9&fire=6A66D9&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=6A66D9&sideLabels=c9d1d9&dates=c9d1d9" alt="Ítalo Botelho Streak Stats" />
     </td>
   </tr>
 </table>
