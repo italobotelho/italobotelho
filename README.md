@@ -64,9 +64,7 @@ Passionate about solving complex problems, from low-level logic in **C** to crea
 </table>
 </div>
 
----
-
-## 🛠️ My Tools and Technologies
+## My Tools and Technologies
 
 <br/>
 
@@ -76,9 +74,7 @@ Passionate about solving complex problems, from low-level logic in **C** to crea
   </a>
 </p>
 
----
-
-## 🧩 Featured Projects
+## Featured Projects
 
 <br/>
 
