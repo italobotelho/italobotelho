@@ -49,6 +49,12 @@ Passionate about solving complex problems, from low-level logic in **C** to crea
 
 <br/>
 
+<a href="https://discord.com/users/546309961018507275">
+  <img src="https://lanyard.cnrad.dev/api/546309961018507275?bg=00000000&hideDiscrim=true&idleMessage=Probably%20doing%20something%20else..." alt="Discord Presence" />
+</a>
+
+<br/>
+
 <img src="https://github-readme-stats.vercel.app/api?username=italobotelho&show_icons=true&count_private=true&rank_icon=github&hide=prs&hide_border=true&title_color=6A66D9&icon_color=6A66D9&text_color=c9d1d9&bg_color=0d1117" alt="Ítalo Botelho GitHub Stats" width="100%" /> 
 <br/>
 
@@ -60,16 +66,9 @@ Passionate about solving complex problems, from low-level logic in **C** to crea
 
 ## 🧩 Featured Projects
 
-### 🤖 Artificial Intelligence & Logic (C)
-- [**8-Puzzle Solver**](https://github.com/italobotelho/8-puzzle-solver-ai) — High-performance solver using **BFS** and **IDDFS** search algorithms.
-- [**Genetic Algorithm: N-Queens**](https://github.com/italobotelho/genetic-algorithm-nqueens) — Implementation of evolutionary logic (selection, crossover, and mutation) to solve optimization problems.
-
-### 📊 Data Science & Business Intelligence
-- [**IMRS 2020 Statistical Analysis**](https://github.com/italobotelho/imrs_educacao_2020) — Study on educational indicators in Minas Gerais using **Python (Pandas/Seaborn)**.
-- [**Predictive Dashboard: Basic Food Basket**](https://github.com/italobotelho/cesta_basica) — Strategic intelligence and price forecasting using **Power BI and DAX**.
-
-### 🌐 Web Development (Fullstack)
 - [**Casa de Maria System**](https://github.com/italobotelho/casa-de-maria-v2) — Complete medical scheduling platform built with **Laravel, Node.js, and FullCalendar**.
+- [**Predictive Dashboard: Basic Food Basket**](https://github.com/italobotelho/cesta_basica) — Strategic intelligence and price forecasting using **Power BI and DAX**.
+- **SIEST** — Platform utilizing graph theory for public health data analysis.
 
 ---
 
@@ -83,15 +82,7 @@ Passionate about solving complex problems, from low-level logic in **C** to crea
   </a>
 </p>
 
-<br/>
 
-<p align="center">
-  <a href="https://discord.com/users/546309961018507275">
-    <img src="https://lanyard.cnrad.dev/api/546309961018507275?bg=00000000&hideDiscrim=true&idleMessage=Probably%20doing%20something%20else..." alt="Discord Presence" />
-  </a>
-</p>
-
-<br/>
 <!--
 ---
 
