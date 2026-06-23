@@ -77,64 +77,19 @@ Passionate about solving complex problems, from low-level logic in **C** to crea
 
 <br/>
 
-<table align="center">
-  <tr>
-    <td align="center" width="85">
-      <img src="https://skillicons.dev/icons?i=python&theme=light" width="60" height="60" alt="Python" />
-      <br><strong>Python</strong>
-    </td>
-    <td align="center" width="85">
-      <img src="https://skillicons.dev/icons?i=c&theme=light" width="60" height="60" alt="C" />
-      <br><strong>C</strong>
-    </td>
-    <td align="center" width="85">
-      <img src="https://skillicons.dev/icons?i=aws&theme=light" width="60" height="60" alt="AWS" />
-      <br><strong>AWS</strong>
-    </td>
-    <td align="center" width="85">
-      <img src="https://skillicons.dev/icons?i=docker&theme=light" width="60" height="60" alt="Docker" />
-      <br><strong>Docker</strong>
-    </td>
-    <td align="center" width="85">
-      <img src="https://skillicons.dev/icons?i=mysql&theme=light" width="60" height="60" alt="MySQL" />
-      <br><strong>MySQL</strong>
-    </td>
-    <td align="center" width="85">
-      <img src="https://skillicons.dev/icons?i=postgres&theme=light" width="60" height="60" alt="PostgreSQL" />
-      <br><strong>PostgreSQL</strong>
-    </td>
-    <td align="center" width="85">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="60" height="60" alt="Pandas" />
-      <br><strong>Pandas</strong>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="85">
-      <img src="https://skillicons.dev/icons?i=js&theme=light" width="60" height="60" alt="JavaScript" />
-      <br><strong>JavaScript</strong>
-    </td>
-    <td align="center" width="85">
-      <img src="https://skillicons.dev/icons?i=php&theme=light" width="60" height="60" alt="PHP" />
-      <br><strong>PHP</strong>
-    </td>
-    <td align="center" width="85">
-      <img src="https://skillicons.dev/icons?i=laravel&theme=light" width="60" height="60" alt="Laravel" />
-      <br><strong>Laravel</strong>
-    </td>
-    <td align="center" width="85">
-      <img src="https://skillicons.dev/icons?i=git&theme=light" width="60" height="60" alt="Git" />
-      <br><strong>Git</strong>
-    </td>
-    <td align="center" width="85">
-      <img src="https://skillicons.dev/icons?i=github&theme=light" width="60" height="60" alt="GitHub" />
-      <br><strong>GitHub</strong>
-    </td>
-    <td align="center" width="85">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="60" height="60" alt="Power BI" />
-      <br><strong>Power BI</strong>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,c,aws,docker,mysql,postgres,js,php,laravel,git,github" />
+  </a>
+</p>
+
+<br/>
+
+<p align="center">
+  <a href="https://discord.com/users/546309961018507275">
+    <img src="https://lanyard.cnrad.dev/api/546309961018507275?bg=00000000&hideDiscrim=true&idleMessage=Probably%20doing%20something%20else..." alt="Discord Presence" />
+  </a>
+</p>
 
 <br/>
 <!--
