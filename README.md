@@ -66,9 +66,20 @@ Passionate about solving complex problems, from low-level logic in **C** to crea
 
 ## 🧩 Featured Projects
 
-- [**Casa de Maria System**](https://github.com/italobotelho/casa-de-maria-v2) — Complete medical scheduling platform built with **Laravel, Node.js, and FullCalendar**.
-- [**Predictive Dashboard: Basic Food Basket**](https://github.com/italobotelho/cesta_basica) — Strategic intelligence and price forecasting using **Power BI and DAX**.
-- **SIEST** — Platform utilizing graph theory for public health data analysis.
+<p align="center">
+  <a href="https://github.com/italobotelho/casa-de-maria-v2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=italobotelho&repo=casa-de-maria-v2&theme=dark&bg_color=0d1117&border_color=6A66D9&title_color=6A66D9&icon_color=6A66D9" alt="Casa de Maria" />
+  </a>
+  <a href="https://github.com/italobotelho/cesta_basica">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=italobotelho&repo=cesta_basica&theme=dark&bg_color=0d1117&border_color=6A66D9&title_color=6A66D9&icon_color=6A66D9" alt="Cesta Básica" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/italobotelho/siest">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=italobotelho&repo=siest&theme=dark&bg_color=0d1117&border_color=6A66D9&title_color=6A66D9&icon_color=6A66D9" alt="SIEST" />
+  </a>
+</p>
 
 ---
 
