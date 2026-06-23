@@ -88,8 +88,8 @@ Passionate about solving complex problems, from low-level logic in **C** to crea
 </p>
 
 <p align="center">
-  <a href="https://github.com/italobotelho/cesta_basica">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=italobotelho&repo=cesta_basica&theme=dark&bg_color=0d1117&border_color=6A66D9&title_color=6A66D9&icon_color=6A66D9&description_lines_count=2" alt="Cesta Básica" />
+  <a href="https://github.com/italobotelho/acutis-api">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=italobotelho&repo=acutis-api&theme=dark&bg_color=0d1117&border_color=6A66D9&title_color=6A66D9&icon_color=6A66D9&description_lines_count=2" alt="Acutis API" />
   </a>
   <a href="https://github.com/italobotelho/PI2026.1">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=italobotelho&repo=PI2026.1&theme=dark&bg_color=0d1117&border_color=6A66D9&title_color=6A66D9&icon_color=6A66D9&description_lines_count=2" alt="PI 2026.1 (SIEST)" />
