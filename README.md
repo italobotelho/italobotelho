@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6A66D9&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Ítalo+Botelho;Welcome+to+my+GitHub!+👋)](https://git.io/typing-svg)
 
 <div align="center">
-  <a href="#"><img src="https://img.shields.io/badge/🌐Portfolio-View_Projects-6A66D9?style=for-the-badge" alt="Portfolio Ítalo Botelho"></a>
+  <a href="https://italobotelho.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/🌐Portfolio-View_Projects-6A66D9?style=for-the-badge" alt="Portfolio Ítalo Botelho"></a>
 </div>
 
 <br/>
@@ -31,8 +31,8 @@ Passionate about solving complex problems, from low-level logic in **C** to crea
 <img width="250" height="250" style="border-radius: 50%; object-fit: cover;" alt="Ítalo Botelho" src="https://github.com/user-attachments/assets/4f03fa36-cba8-4bde-a58b-acfb4324ef72" />
 
 <p>
-  <a href="https://linkedin.com/in/italobotelho"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:fragabotelhoitalo@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/italobotelho" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:fragabotelhoitalo@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
 </p>
 
 <img src="https://komarev.com/ghpvc/?username=italobotelho&style=flat-square&color=6A66D9&label=VIEWS" alt="Profile views count" />
