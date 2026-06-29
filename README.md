@@ -19,7 +19,7 @@ Passionate about solving complex problems, from low-level logic in **C** to crea
 
 **Experience**
 
-**Statistics and Inference Teaching Assistant @ PUC Campinas** *(2026 - Present)* Supporting first-semester students in understanding statistical concepts and mathematical calculations.
+**Statistics and Inference Teaching Assistant @ PUC Campinas** *(Until Jun 2026)* Supporting first-semester students in understanding statistical concepts and mathematical calculations.
 
 **Technical Assistant @ Accounting Firm** *(2025 - Present)* Automating technical routines, document management, and optimizing office workflows.
 
